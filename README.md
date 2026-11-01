@@ -1,4 +1,4 @@
-# anycutlist-com
+# AnyCutlist
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,135 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-anycutlist-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://anycutlist.com/
+AnyCutlist provides AI-powered cutlist software for cut-and-edge shops and cabinet makers, built in Kenya. It converts handwritten, photo, PDF, Excel, and 3D model cutting lists into checked parts, priced quotes, and MaxCut-ready files. Features include OCR, edge-banding notation, sheet optimization, Zoho Books integration, and an MCP server for AI assistants.
+
+**Areas:** AI · Manufacturing · Cutlist · Kenya · Software
+
+## AnyCutlist on APIs.io
+
+Everything profiled for AnyCutlist is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/anycutlist-com/](https://apis.io/providers/anycutlist-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [AnyCutlist Assembly Templates API](https://apis.io/apis/anycutlist-com/anycutlist-com-assembly-templates-api/) — The Assembly Templates API from AnyCutlist — 3 operation(s) for assembly templates.
+- [AnyCutlist Cutlists API](https://apis.io/apis/anycutlist-com/anycutlist-com-cutlists-api/) — The Cutlists API from AnyCutlist — 5 operation(s) for cutlists.
+- [AnyCutlist Exports API](https://apis.io/apis/anycutlist-com/anycutlist-com-exports-api/) — The Exports API from AnyCutlist — 3 operation(s) for exports.
+- [AnyCutlist Files API](https://apis.io/apis/anycutlist-com/anycutlist-com-files-api/) — The Files API from AnyCutlist — 2 operation(s) for files.
+- [AnyCutlist Materials API](https://apis.io/apis/anycutlist-com/anycutlist-com-materials-api/) — The Materials API from AnyCutlist — 2 operation(s) for materials.
+- [AnyCutlist Optimize API](https://apis.io/apis/anycutlist-com/anycutlist-com-optimize-api/) — The Optimize API from AnyCutlist — 3 operation(s) for optimize.
+- [AnyCutlist Optimize Jobs API](https://apis.io/apis/anycutlist-com/anycutlist-com-optimize-jobs-api/) — The Optimize Jobs API from AnyCutlist — 2 operation(s) for optimize jobs.
+- [AnyCutlist Parse API](https://apis.io/apis/anycutlist-com/anycutlist-com-parse-api/) — The Parse API from AnyCutlist — 1 operation(s) for parse.
+- [AnyCutlist Parse File API](https://apis.io/apis/anycutlist-com/anycutlist-com-parse-file-api/) — The Parse File API from AnyCutlist — 1 operation(s) for parse file.
+- [AnyCutlist Parse Jobs API](https://apis.io/apis/anycutlist-com/anycutlist-com-parse-jobs-api/) — The Parse Jobs API from AnyCutlist — 2 operation(s) for parse jobs.
+- [AnyCutlist Parse Text API](https://apis.io/apis/anycutlist-com/anycutlist-com-parse-text-api/) — The Parse Text API from AnyCutlist — 1 operation(s) for parse text.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Anycutlist Com Agentic Access](https://apis.io/agentic-access/anycutlist-com/anycutlist-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AnyCutlist API Rules](https://apis.io/rules/anycutlist-com/anycutlist-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Anycutlist Com Authentication](https://apis.io/security/anycutlist-com/anycutlist-com-authentication/)
+- [Anycutlist Com Domain Security](https://apis.io/security/anycutlist-com/anycutlist-com-domain-security/)
+- [Anycutlist Com Vulnerability Disclosure](https://apis.io/security/anycutlist-com/anycutlist-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Anycutlist Com Scopes](https://apis.io/scopes/anycutlist-com/anycutlist-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Anycutlist Com Plans Pricing](https://apis.io/plans/anycutlist-com/anycutlist-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Anycutlist Com Rate Limits](https://apis.io/rate-limits/anycutlist-com/anycutlist-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://anycutlist.com/)
+- [Documentation](https://www.anycutlist.com/docs)
+- [Getting started](https://www.anycutlist.com/docs)
+- [API reference](https://www.anycutlist.com/docs)
+- [Pricing](https://www.anycutlist.com/pricing)
+- [Blog](https://www.anycutlist.com/blog)
+- [Terms of service](https://www.anycutlist.com/terms)
+- [Privacy policy](https://www.anycutlist.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 57.9** — strong · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 45.4 |
+| Contract governance | 65.5 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 48.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 37.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/anycutlist-com/](https://apis.io/providers/anycutlist-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AnyCutlist: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/anycutlist-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
